@@ -1,0 +1,21 @@
+{
+    "name": "nodejs-simple-oz",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: Test not specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/osmanburucu-ibm/nodejs-simple.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/osmanburucu-ibm/nodejs-simple/issues"
+    },
+    "homepage": "https://github.com/osmanburucu-ibm/nodejs-simple/blob/master/README.md"
+}
